@@ -12,4 +12,4 @@ A simple expense tracker with dark/light mode, filters, and month picker.
 Open `index.html` directly or use VS Code Live Server.
 
 ## Live
-Hosted on GitHub Pages: 
+Hosted on GitHub Pages: https://yogeshag12.github.io/expense-tracker/
