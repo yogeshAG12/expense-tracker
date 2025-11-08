@@ -1,0 +1,10 @@
+# system files
+Thumbs.db
+.DS_Store
+
+# editor folders
+.vscode/
+.idea/
+
+# node (agar use hota hai future me)
+node_modules/
