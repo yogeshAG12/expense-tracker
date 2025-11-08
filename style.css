@@ -190,3 +190,9 @@ input[type="month"]::-webkit-calendar-picker-indicator {
 .light input[type="month"]::-webkit-calendar-picker-indicator {
   filter: invert(0);
 }
+
+button:hover {
+  background-color: #4caf50;
+  transform: scale(1.03);
+  transition: 0.2s;
+}
