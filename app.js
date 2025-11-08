@@ -232,3 +232,9 @@ function render() {
 
 // First paint
 render();
+
+// Save data
+localStorage.setItem("expenses", JSON.stringify(expenses));
+
+// On load
+const saved = JSON.parse(localStorage.getItem("expenses")) || [];
